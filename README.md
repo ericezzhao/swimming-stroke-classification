@@ -1,1 +1,5 @@
-Link to view presentation: https://docs.google.com/presentation/d/1X0RHBuFNgQa5Wh81jmE4U8CmLHWBKzi-NrE3xOn1TJQ/edit?usp=sharing
+# Swimming Stroke Classification
+
+This project is inspired by my hobbby in swimming in collaboration with data science/machine learning. You can find related/supplemental material for this project such as the raw [python file](https://github.com/ericezzhao/swimming-stroke-classification/blob/main/strokeclassification.py), a [jupyter notebook](https://github.com/ericezzhao/swimming-stroke-classification/blob/main/Stroke%20Classification.ipynb) version, a [business report](https://github.com/ericezzhao/swimming-stroke-classification/blob/main/Stroke%20Classification%20for%20Integrated%20AI%20Coaching%20Business%20Report.pdf), and a [presentation slide deck](https://docs.google.com/presentation/d/1X0RHBuFNgQa5Wh81jmE4U8CmLHWBKzi-NrE3xOn1TJQ/edit?usp=sharing)!
+
+A logistic regression, random forest, xgoost, and a deep learning CNN-LSTM model has been trained on swimming inertial measurement unit data which have been cleaned, preprocessed, and feature engineered in order to classify the data into one of the four strokes and select phases of swimming: backstroke, breastroke, butterfly, freestyle, start from a dive, pushoff start, open turn, and flip turn.
